@@ -55,7 +55,7 @@ Challenges and Solutions:
 Handling Missing Data: The dataset contains several missing values, especially in features related to property condition and type. To address this, missing values were imputed based on domain knowledge and statistical methods.
 Outlier Detection: Significant outliers in the data could skew model predictions. These were handled by capping and transforming variables where necessary.
 Feature Selection: With a large number of features, identifying the most relevant ones was crucial. Techniques like Recursive Feature Elimination (RFE) and feature importance from tree-based models were employed.
-Conclusion:
+**Conclusion:**
 This project successfully demonstrates the application of advanced regression techniques in predicting house prices. The final model, after thorough tuning and evaluation, provided accurate predictions with a reasonable RMSE. The insights from this project can be valuable for real estate professionals and stakeholders by offering a data-driven approach to pricing residential properties.
 
 Future Work:
